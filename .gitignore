@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+*.zip
+
+
+res/
+!res/sample/.placeholder.md
+
+out/
