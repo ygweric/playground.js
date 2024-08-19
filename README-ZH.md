@@ -18,7 +18,7 @@ playground.ts 是 js 和 ts 的 Playground，你可以随心所欲地编写 js/t
 
 ## playground.ts 用来做什么？
 
-我使用 playing.js 来管理我的脚本，包括：
+我使用 playground.ts 来管理我的脚本，包括：
 
 - 为一些网站或端点编写爬虫
 - 编写或测试 js/ts 脚本
