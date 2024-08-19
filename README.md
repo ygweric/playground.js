@@ -1,14 +1,14 @@
-# playground.js
+# playground.ts
 
 A playground for js and ts
 
-GitHub address [https://github.com/ygweric/playground.js](https://github.com/ygweric/playground.js)
+GitHub address [https://github.com/ygweric/playground.ts](https://github.com/ygweric/playground.ts)
 
-[中文文档](https://github.com/ygweric/playground.js/blob/main/README-ZH.md) | English Documentation
+[中文文档](https://github.com/ygweric/playground.ts/blob/main/README-ZH.md) | English Documentation
 
-## What is playground.js
+## What is playground.ts
 
-playground.js is a playground for js and ts, you can write js/ts script as you want, and run it with vscode, it provides a best practice for you.
+playground.ts is a playground for js and ts, you can write js/ts script as you want, and run it with vscode, it provides a best practice for you.
 
 ## key features
 
@@ -16,9 +16,9 @@ playground.js is a playground for js and ts, you can write js/ts script as you w
 2. run and **debug** for javascript files.
 3. manage scripts with folders and git.
 
-## What is playground.js used for?
+## What is playground.ts used for?
 
-I use playground.js to manage my scripts, including:
+I use playground.ts to manage my scripts, including:
 
 - Write spiders(bots) for some websites or endpoints
 - Write or test js/ts scripts
@@ -29,11 +29,11 @@ I use playground.js to manage my scripts, including:
 - Download tons of images
 - etc.
 
-## How can playground.js debug typescript files?
+## How can playground.ts debug typescript files?
 
 Generally, we need to run `tsc` to compile typescript files to javascript files, and then run the javascript files.
 
-But playground.js intergrate **Jest**,you can run or debug a ts file with jest.
+But playground.ts intergrate **Jest**,you can run or debug a ts file with jest.
 
 ## Required environment
 
@@ -47,7 +47,7 @@ But playground.js intergrate **Jest**,you can run or debug a ts file with jest.
 pnpm install
 ```
 
-## How to use playground.js
+## How to use playground.ts
 
 ### run/debug ts file
 
