@@ -1,5 +1,7 @@
 # playground.ts
 
+![logo](/assets/logo.png)
+
 A playground for js and ts
 
 GitHub address [https://github.com/ygweric/playground.ts](https://github.com/ygweric/playground.ts)

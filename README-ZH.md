@@ -1,5 +1,7 @@
 # playground.ts
 
+![logo](/assets/logo.png)
+
 js、ts 游乐场
 
 GitHub 地址 [https://github.com/ygweric/playground.ts](https://github.com/ygweric/playground.ts)
